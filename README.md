@@ -6,9 +6,9 @@
 * npm install postcss-cli autoprefixer --save
 
 * in package.json
-  "scripts": {
+ "scripts": {
     "compile:sass": "sass --watch scss:dist/css/"
-  },
+ },
 
 * npm run compile:sass
 Ctrl-c to stop terminal
