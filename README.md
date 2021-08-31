@@ -11,13 +11,13 @@
  },
 
 * npm run compile:sass
-Ctrl-c to stop terminal
+* Ctrl-c to stop terminal
 
 
 ## GIT
 * touch .gitignore
 
-* in .gitignore
+* in .gitignore: 
 node_modules
 
 * git init
